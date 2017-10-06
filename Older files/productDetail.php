@@ -1,0 +1,6 @@
+<?php
+$product
+?>
+<form>
+    
+</form>
