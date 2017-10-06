@@ -1,6 +1,0 @@
-<?php
-$product
-?>
-<form>
-    
-</form>
