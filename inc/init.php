@@ -6,7 +6,7 @@ define('HOME_PAGE', '/e-commerce/merkato-online/home.php');
 define('SIGNIN_PAGE', '/e-commerce/merkato-online/signin.php');
 define('SIGNUP_PAGE', '/e-commerce/merkato-online/signup.php');
 define('LOGOUT_PAGE', '/e-commerce/merkato-online/logout.php');
-define('SELL_PAGE', '/e-commerce/merkato-online/sell.php');
+define('SELL_PAGE', '/e-commerce/merkato-online/sellerHome.php');
 define('ADD_PRODUCT', '/e-commerce/merkato-online/seller/product/addProduct.php');
 define('UPDATE_PRODUCT', '/e-commerce/merkato-online/seller/account/updateProduct.php');
 define('VIEW_ORDERS', '/e-commerce/merkato-online/viewOrders.php');
